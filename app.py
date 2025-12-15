@@ -115,7 +115,7 @@ try:
         torch_dtype=torch.bfloat16 if device == "cuda" else torch.float32,
     ).to(device).eval()
 except Exception as e:
-    print(f"Failed to load UI-TARS: {e}")
+    print(f"Failed to Gliese-CUA-Tool-Call-8B model: {e}")
     model_x = None
     processor_x = None
 
